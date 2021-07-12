@@ -1,0 +1,4 @@
+Administrator username password
+
+username: admin
+password: admin
